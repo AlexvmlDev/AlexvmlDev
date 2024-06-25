@@ -48,10 +48,9 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!-- <details> -->
-
 ## :bar_chart: Stats
   <p align="left" > 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexvmldev&show_icons=true&theme=github_dark&hide_border=true&locale=en&layout=compact" alt="alexvmldev" width="45%" />
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexvmldev&show_icons=true&theme=github_dark&hide_border=true&locale=en" alt="alexvmldev" width="50%" />
-  <img align="center" src="https://streak-stats.demolab.com?user=AlexvmlDev&theme=github-dark-blue&hide_border=true" alt="alexvmldev" width="100%"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexvmlDev&show_icons=true&theme=github_dark&hide_border=true&locale=en&layout=compact" alt="alexvmldev" width="45%" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexvmlDev&show_icons=true&theme=github_dark&hide_border=true&locale=en" alt="alexvmldev" width="50%" />
+   <a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=AlexvmlDev&theme=github-dark-blue&hide_border=true" alt="alexvmldev" width="100%"/></a>
   </p>
