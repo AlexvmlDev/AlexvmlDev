@@ -26,7 +26,7 @@
 <p>I fully decided to learn Computer Science fundamentals without engage in a college because I use Arch BTW 😆 just kidding! I learn how to use linux when i try to install the distribution "Arch Linux" and enjoy the feedback and process of learning "alone", despite the fact that it took me 1x week to finally get it done, even after trying 3 times before... But this led me to began to use Manjaro as a 1st distro instead of others more "beginner friendly" to force myself to learn in this way... So... With that said. See my repo <i><u>[My journey in CS as Self-taught developer](My journey in CS as Self-taught developer)</u></i> to follow my progress and projects, and therefore what i doing...</p>
 </details>
 
-### Languages and tools:
+### Languages and tools used on a daily basis:
 
 <p align="left">
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://bashlogo.com/img/symbol/svg/monochrome_light.svg" alt="bash" width="40" height="40"/> </a>
@@ -50,8 +50,8 @@
 <!-- <details> -->
 
 ## :bar_chart: Stats
-  <div align="center">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexvmldev&show_icons=true&theme=github_dark&hide_border=true&locale=en&layout=compact" alt="alexvmldev" width="45%" />
-      <img align="right" src="https://github-readme-stats.vercel.app/api?username=alexvmldev&show_icons=true&theme=github_dark&hide_border=true&locale=en" alt="alexvmldev" width="50%"/> <br>
-      <img align="center" src="https://streak-stats.demolab.com?user=AlexvmlDev&theme=github-dark-blue&hide_border=true" alt="alexvmldev" width="100%"/> <br>
-  </div>
+  <p align="left" > 
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexvmldev&show_icons=true&theme=github_dark&hide_border=true&locale=en&layout=compact" alt="alexvmldev" width="45%" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexvmldev&show_icons=true&theme=github_dark&hide_border=true&locale=en" alt="alexvmldev" width="50%" />
+  <img align="center" src="https://streak-stats.demolab.com?user=AlexvmlDev&theme=github-dark-blue&hide_border=true" alt="alexvmldev" width="100%"/>
+  </p>
