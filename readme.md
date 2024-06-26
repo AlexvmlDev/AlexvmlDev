@@ -51,8 +51,8 @@
 ## :bar_chart: Stats
  <p align="left" >
     <a href="https://github.com/AlexvmlDev">
-      <img height="200" src="https://github-readme-stats.vercel.app/api?username=AlexvmlDev&show_icons=true&theme=github_dark&hide_border=true&locale=en" alt="alexvmldev"/>
-      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexvmlDev&show_icons=true&theme=github_dark&hide_border=true&locale=en&layout=compact" alt="alexvmldev"/>
-      <img width="93%" align="center" src="https://streak-stats.demolab.com?user=AlexvmlDev&theme=github-dark-blue&hide_border=true" alt="alexvmldev"/>
+      <img height="195" src="https://github-readme-stats.vercel.app/api?username=AlexvmlDev&show_icons=true&theme=github_dark&hide_border=true&locale=en" alt="alexvmldev"/>
+      <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexvmlDev&show_icons=true&theme=github_dark&hide_border=true&locale=en&layout=compact" alt="alexvmldev"/>
+      <img width="90%" align="center" src="https://streak-stats.demolab.com?user=AlexvmlDev&theme=github-dark-blue&hide_border=true" alt="alexvmldev"/>
     </a>
   </p>
