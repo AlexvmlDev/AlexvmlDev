@@ -3,15 +3,16 @@
 
 #
 
-🌱 I’m currently learning **Git, C language & Fundamentals in Computer Science**
+🌱 I’m currently learning **Git, C programming and Fundamentals in Computer Science**
 
 👨‍💻 See my projects at [My journey to learn Computer Science](https://github.com/AlexvmlDev/my-journey-to-learn-computer-science)
 
-📝 I regularly write articles on [Dev.to](https://dev.to/alexvmldev)
+📝 I plan to start writing articles regularly on [Dev.to](https://dev.to/alexvmldev)
 
 :office: I Work as a Web Designer for [@vintetresdigital](https://github.com/vintetresdigital)
 
-:mailbox: You can reach me at [contact@alexvml.dev](mailto:contact@alexvml.dev) or on any of this channels bellow: :arrow_heading_down:
+:mailbox: You can reach me at [alex.vml777@gmail.com](mailto:alex.vml777@gmail.com) or on any of this channels bellow: :arrow_heading_down:
+<!-- [contact@alexvml.dev](mailto:contact@alexvml.dev)  -->
 
 ### Connect with me:
 
@@ -23,7 +24,7 @@
 <br>
 <details>
 <summary><b>A curiosity fact:</b></summary>
-<p>I fully decided to learn Computer Science fundamentals without engage in a college because I use Arch BTW 😆 just kidding! I learn how to use linux when i try to install the distribution "Arch Linux" and enjoy the feedback and process of learning "alone", despite the fact that it took me 1x week to finally get it done, even after trying 3 times before... But this led me to began to use Manjaro as a 1st distro instead of others more "beginner friendly" to force myself to learn in this way... So... With that said. See my repo 
+<p>I fully decided to learn Computer Science fundamentals without engage in a college because I use Arch BTW 😆 just kidding! I learn how to use linux when i try to install the distribution "Arch Linux" and enjoy the feedback and process of learning "alone", despite the fact that it took me one week to finally get it done, even after trying 3x (times) before... But this led me to began to use Manjaro as a 1st distro instead of others more "beginner friendly" to force myself to learn in this way... So... With that said. See my repo 
 <a href="https://github.com/AlexvmlDev/my-journey-to-learn-computer-science"><i><u>[My journey to learn Computer Science]</u></i></a>
  to follow my progress and projects, and therefore what i doing...</p>
 </details>
