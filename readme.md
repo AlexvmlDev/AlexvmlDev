@@ -17,7 +17,7 @@
 ### Connect with me:
 
 <p align="left">
-<a href="https://codepen.io/alexvmldev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="alexvmldev" height="30" width="40" /></a>
+<a href="https://codepen.io/alexvmldev" target="blank"><img align="center" src="https://raw.githubusercontent.com/AlexvmlDev/AlexvmlDev/37a54cc9de96bf3c3ffde499494a682c3a796a30/imgs/codepen-white.svg" alt="alexvmldev" height="30" width="40" /></a>
 <a href="https://dev.to/alexvmldev" target="blank"><img align="center" src="https://media.dev.to/cdn-cgi/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="alexvmldev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alex-viana-lopes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex-viana-lopes" height="30" width="40" /></a>
 </p>
